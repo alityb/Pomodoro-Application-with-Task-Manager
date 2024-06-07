@@ -1,1 +1,1 @@
-# Pomodoro-Application-with-Tasks-Managaer
+# **Pomodoro Application with Task Manager**
